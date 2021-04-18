@@ -1,0 +1,6 @@
+1. Necessary files are already in the folder.
+2. Just open command prompt and type:
+	python program_name.py
+3. a graph will be shown i.e based on elbow method
+4. choose some number k, as the desired number of clusters.
+5. cluster results will be shown along with other details,
